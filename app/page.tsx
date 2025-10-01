@@ -6,7 +6,7 @@ export default function Page() {
       <main>
       <h1>Halo — saya [Muchammad Rasyid Syafiyullah]</h1>
       <p>Ini website sederhana yang saya edit sendiri.</p>
-      <img src="/hero.jpg" alt="Hero" />
+      <img className='w-40 h-auto' src="https://png.pngtree.com/png-clipart/20190905/original/pngtree-number-three-gesture-illustration-png-image_4523677.jpg" alt="Jari3" />
       </main>
 
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
