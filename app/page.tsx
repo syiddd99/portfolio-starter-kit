@@ -8,7 +8,7 @@ export default function Page() {
       <h2>Halo nama saya Muchammad Rasyid Syafiyullah</h2>
       <h2>dan saya Regata Delavin Abirama</h2>
       <p>Ini website sederhana yang saya edit sendiri.</p>
-      <img className='w-40 h-auto' src="file:///C:/Users/ASUS/Downloads/WhatsApp%20Image%202025-10-02%20at%2013.37.02.jpeg" alt="Jari3" />
+      <img className='w-40 h-auto' src="https://upload.wikimedia.org/wikipedia/id/1/15/SMK_Negeri_2_Malang.png" alt="Jari3" />
       </main>
 
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
