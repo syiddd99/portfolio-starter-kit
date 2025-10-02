@@ -4,16 +4,17 @@ export default function Page() {
   return (
     <section>
       <main>
-      <h1>Halo — saya [Regata Delavin Abirama]</h1>
+      <h1>Welome to OUR WEBSITE</h1>
+      <h2>Halo nama saya Muchammad Rasyid Syafiyullah</h2>
       <p>Ini website sederhana yang saya edit sendiri.</p>
-      <img className='w-40 h-auto' src="https://upload.wikimedia.org/wikipedia/id/1/15/SMK_Negeri_2_Malang.png" alt="foto" />
+      <img className='w-40 h-auto' src="file:///C:/Users/ASUS/Downloads/WhatsApp%20Image%202025-10-02%20at%2013.37.02.jpeg" alt="Jari3" />
       </main>
 
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
         My Portfolio
       </h1>
       <p className="mb-4">
-        {`I'm Rega and tab advocate, finding unmatched efficiency in
+        {`I'm a Muchammad Rasyid Syafiyullah and tab advocate, finding unmatched efficiency in
         Vim's keystroke commands and tabs' flexibility for personal viewing
         preferences. This extends to my support for static typing, where its
         early error detection ensures cleaner code, and my preference for dark
