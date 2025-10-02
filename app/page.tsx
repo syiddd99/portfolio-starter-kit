@@ -4,9 +4,10 @@ export default function Page() {
   return (
     <section>
       <main>
-      <h1>Halo — saya [Muchammad Rasyid Syafiyullah]</h1>
+      <h1>Welome to OUR WEBSITE</h1>
+      <h2>Halo nama saya Muchammad Rasyid Syafiyullah</h2>
       <p>Ini website sederhana yang saya edit sendiri.</p>
-      <img className='w-40 h-auto' src="https://png.pngtree.com/png-clipart/20190905/original/pngtree-number-three-gesture-illustration-png-image_4523677.jpg" alt="Jari3" />
+      <img className='w-40 h-auto' src="file:///C:/Users/ASUS/Downloads/WhatsApp%20Image%202025-10-02%20at%2013.37.02.jpeg" alt="Jari3" />
       </main>
 
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
